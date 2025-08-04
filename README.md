@@ -16,7 +16,7 @@ A fast, lightweight deep learning model for classifying vehicle license plate im
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/license-plate-classifier.git
+git clone https://github.com/dokdave/license-plate-classifier.git
 cd license-plate-classifier
 
 # Create and activate virtual environment (optional)
