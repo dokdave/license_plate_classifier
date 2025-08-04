@@ -1,0 +1,6 @@
+torch
+torchvision
+scikit-learn
+optuna
+pyyaml
+timm

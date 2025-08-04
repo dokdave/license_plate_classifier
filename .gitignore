@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# PyTorch artifacts
+*.pt
+*.pth
+
+# Configuration
+config/config.yaml
+*.bak
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Plots and reports
+runs/*.png
+runs/best_model.pth
+data/false_negative/
+data/images/
+data/val/
+data/train/
+data/test/
+
+__pychache__/
+
+# IDE
+.vscode/
+.idea/
